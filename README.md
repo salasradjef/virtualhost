@@ -1,2 +1,2 @@
 # Virtualhost Manage Script
-#### Personal tool to create a manage virtualhost on my popOS system
+#### Personal tool to create and manage virtualhost on my popOS system
