@@ -1,0 +1,1 @@
+alias newhost='sudo python3 /home/salas/Bureau/virtualhosts/app.py'
