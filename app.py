@@ -14,7 +14,7 @@ os.system(cmd)
 
 f_name = '/var/www/html/{0}/index.html'.format(vhost)
 f = open(f_name, 'w')
-f.write("<html><head><title>This is an Index Page</title></head><body><h1>WAS CREATE WITH SALAS_vhost</h1></body></html>")
+f.write("<html><head><title>This is an Index Page</title></head><body><h1>projet initialisé</h1></body></html>")
 f.close()
  
 f_name = '/etc/apache2/sites-available/{0}.conf'.format(vhost)
