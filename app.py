@@ -42,3 +42,5 @@ sf.write('\n')
 sf.write(f_c)
 
 sf.close()
+cmd = 'code /var/www/html/{0}'.format(vhost)
+os.system(cmd) 
